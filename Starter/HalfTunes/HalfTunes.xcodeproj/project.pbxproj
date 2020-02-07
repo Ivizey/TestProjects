@@ -14,6 +14,7 @@
 		0A6CFB0821F39E6800345B5B /* TrackCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A6CFB0321F39E6800345B5B /* TrackCell.swift */; };
 		47A0DFC523EC22F100F515AA /* HalfTunesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47A0DFC423EC22F100F515AA /* HalfTunesTests.swift */; };
 		47A0DFD323EC27CC00F515AA /* HalfTunesFakeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47A0DFD223EC27CC00F515AA /* HalfTunesFakeTests.swift */; };
+		47A0DFDB23EC2D0F00F515AA /* abbaData.json in Resources */ = {isa = PBXBuildFile; fileRef = 47A0DFDA23EC2D0F00F515AA /* abbaData.json */; };
 		5394F02521864DF5006E754C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5394F02321864DF4006E754C /* LaunchScreen.storyboard */; };
 		D2A5F2091F4A9144005CD714 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2A5F2071F4A9144005CD714 /* Main.storyboard */; };
 		D2A5F20B1F4A9144005CD714 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2A5F20A1F4A9144005CD714 /* Assets.xcassets */; };
@@ -49,6 +50,7 @@
 		47A0DFD023EC27CC00F515AA /* HalfTunesFakeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HalfTunesFakeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		47A0DFD223EC27CC00F515AA /* HalfTunesFakeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HalfTunesFakeTests.swift; sourceTree = "<group>"; };
 		47A0DFD423EC27CC00F515AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		47A0DFDA23EC2D0F00F515AA /* abbaData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = abbaData.json; sourceTree = "<group>"; };
 		5394F02421864DF4006E754C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D2A5F2001F4A9144005CD714 /* HalfTunes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HalfTunes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2A5F2081F4A9144005CD714 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 		47A0DFD123EC27CC00F515AA /* HalfTunesFakeTests */ = {
 			isa = PBXGroup;
 			children = (
+				47A0DFDA23EC2D0F00F515AA /* abbaData.json */,
 				47A0DFD223EC27CC00F515AA /* HalfTunesFakeTests.swift */,
 				47A0DFD423EC27CC00F515AA /* Info.plist */,
 			);
@@ -275,6 +278,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47A0DFDB23EC2D0F00F515AA /* abbaData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

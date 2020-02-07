@@ -10,6 +10,7 @@
 		0A6CFAFD21F39B0F00345B5B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A6CFAFB21F39B0F00345B5B /* ViewController.swift */; };
 		0A6CFAFE21F39B0F00345B5B /* BullsEyeGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A6CFAFC21F39B0F00345B5B /* BullsEyeGame.swift */; };
 		47A0DFB723EC13FE00F515AA /* BullsEyeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47A0DFB623EC13FE00F515AA /* BullsEyeTests.swift */; };
+		47A0DFDD23ED89B400F515AA /* BullsEyeMockTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47A0DFDC23ED89B400F515AA /* BullsEyeMockTests.swift */; };
 		5394F02521864DF5006E754C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5394F02321864DF4006E754C /* LaunchScreen.storyboard */; };
 		D2A5F2091F4A9144005CD714 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2A5F2071F4A9144005CD714 /* Main.storyboard */; };
 		D2A5F20B1F4A9144005CD714 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2A5F20A1F4A9144005CD714 /* Assets.xcassets */; };
@@ -32,6 +33,7 @@
 		47A0DFB423EC13FE00F515AA /* BullsEyeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BullsEyeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		47A0DFB623EC13FE00F515AA /* BullsEyeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullsEyeTests.swift; sourceTree = "<group>"; };
 		47A0DFB823EC13FE00F515AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		47A0DFDC23ED89B400F515AA /* BullsEyeMockTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullsEyeMockTests.swift; sourceTree = "<group>"; };
 		5394F02421864DF4006E754C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D2A5F2001F4A9144005CD714 /* BullsEye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BullsEye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2A5F2081F4A9144005CD714 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 		47A0DFB523EC13FE00F515AA /* BullsEyeTests */ = {
 			isa = PBXGroup;
 			children = (
+				47A0DFDC23ED89B400F515AA /* BullsEyeMockTests.swift */,
 				47A0DFB623EC13FE00F515AA /* BullsEyeTests.swift */,
 				47A0DFB823EC13FE00F515AA /* Info.plist */,
 			);
@@ -203,6 +206,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47A0DFDD23ED89B400F515AA /* BullsEyeMockTests.swift in Sources */,
 				47A0DFB723EC13FE00F515AA /* BullsEyeTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
