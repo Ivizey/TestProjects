@@ -6,7 +6,7 @@ iOS Unit Testing and UI Testing Tutorial by [raywenderlich.com](https://www.rayw
 
 Writing tests isn’t glamorous, but since tests keep your sparkling app from turning into a bug-ridden piece of junk, it’s necessary. If you’re reading this tutorial, you already know you should write tests for your code and UI, but you may not know how.
 You may have a working app, but you want to test changes you’re making to extend the app. Maybe you already have tests written, but aren’t sure whether they’re the right tests. Or, you have started working on a new app and want to test as you go.
-![example_1](https://koenig-media.raywenderlich.com/uploads/2019/01/TestFailure-1.png)
+![example_1](https://i.ytimg.com/vi/NrHSZgbQ7_k/maxresdefault.jpg)
 
 ### This tutorial will show you:
 
