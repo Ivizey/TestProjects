@@ -19,6 +19,6 @@ You may have a working app, but you want to test changes you’re making to exte
 
 Swift 4.2, iOS 12, Xcode 10
 
-## Author
+## Tutorial author
 
 Michael Katz
